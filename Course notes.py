@@ -402,7 +402,7 @@ desc = tuple(sorted(info, key=lambda item: item[1], reverse = True))
 print(f'Rosnąco: {asc}')
 print(f'Malejąco: {desc}')    
 
-# %%
+# %% 
 
 stocks = (('Playway', ('PLW', 310)), ('CD Projekt', ('CDR', 300)))
 
